@@ -1,0 +1,61 @@
+.container {
+    background-color: white;
+    width: 700px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-color: cadetblue;
+}
+
+.upperBar {
+    height: 70px;
+    width: 700px;
+    background-color: rgb(145, 145, 255);
+    border: solid cadetblue 1px;
+}
+
+.userPic {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 50px;
+    left: 650px;
+}
+
+h1{
+    position: relative;
+    top: 50px;
+    left: 25px;
+}
+
+.mapMarker {
+    height: 20px;
+    width: 15px;
+    position: relative;
+    top: 40px;
+    left: 25px;
+    display: inline-block;
+}
+
+p {
+    position: relative;
+    left: 50px;
+}
+
+.gear{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    top: 0px;
+    left: 25px;
+    display: inline-block;
+}
+
+.profileText {
+    position: relative;
+    bottom: 39px;
+    right: 5px;
+    text-decoration: underline;
+    color: cornflowerblue;
+}
